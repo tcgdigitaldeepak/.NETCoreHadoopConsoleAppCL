@@ -1,0 +1,11 @@
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\bin\Debug\netcoreapp2.0\ConsoleHadoop1.deps.json
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\bin\Debug\netcoreapp2.0\ConsoleHadoop1.runtimeconfig.json
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\bin\Debug\netcoreapp2.0\ConsoleHadoop1.runtimeconfig.dev.json
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\bin\Debug\netcoreapp2.0\ConsoleHadoop1.dll
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\bin\Debug\netcoreapp2.0\ConsoleHadoop1.pdb
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\obj\Debug\netcoreapp2.0\ConsoleHadoop1.csproj.CoreCompileInputs.cache
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\obj\Debug\netcoreapp2.0\ConsoleHadoop1.AssemblyInfoInputs.cache
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\obj\Debug\netcoreapp2.0\ConsoleHadoop1.AssemblyInfo.cs
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\obj\Debug\netcoreapp2.0\ConsoleHadoop1.dll
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\obj\Debug\netcoreapp2.0\ConsoleHadoop1.pdb
+C:\Users\deepakk\source\repos\ConsoleHadoop1\ConsoleHadoop1\obj\Debug\netcoreapp2.0\ConsoleHadoop1.csprojResolveAssemblyReference.cache
